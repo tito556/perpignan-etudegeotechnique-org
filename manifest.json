@@ -1,0 +1,20 @@
+{
+  "name": "Geotechnique",
+  "short_name": "Geotechnique",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#831843",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "fr",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Services géotechniques professionnels à Perpignan, France. Études de sol, essais et conseil technique.",
+  "id": "/perpignan-9676"
+}
